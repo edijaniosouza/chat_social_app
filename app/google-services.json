@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962888043132",
+    "project_id": "chat-app-ef8bc",
+    "storage_bucket": "chat-app-ef8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962888043132:android:e4c676ffaa10dbf63bd7f9",
+        "android_client_info": {
+          "package_name": "br.com.edijanio.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962888043132-k4lei8ds5fkoqsflh8jv7j822l7csvar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.edijanio.chatapp",
+            "certificate_hash": "c9d644b6dc5d40ce568cf9225b2a1a32f2f4dc60"
+          }
+        },
+        {
+          "client_id": "962888043132-230ptfj07n4u77gqq9u18fope8sb59p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4ohfiQBMgAUcAR0YaNFTEjiV0d1DDsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962888043132-230ptfj07n4u77gqq9u18fope8sb59p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
